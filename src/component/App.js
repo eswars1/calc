@@ -4,7 +4,7 @@ import ButtonContainer from "../container/ButtonContainer";
 
 const App = () => (
   <div align="center">
-    <h1>Timer1111111</h1>
+    <h1>Timer</h1>
     <HeaderContainer />
     <ButtonContainer />
   </div>
