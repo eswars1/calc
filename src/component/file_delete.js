@@ -14,6 +14,7 @@ const Delete = () => (
     <p>the price of the hamburger is 30$</p>
     <p>the price of the Sandwitch is 26$</p>
     <p>the price of the samosa is 12$</p>
+    <p>the new update</p>
 
 
   </div>
